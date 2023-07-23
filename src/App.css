@@ -2,16 +2,29 @@
 
 .App {
   text-align: center;
-
 }
-.child{
+
+.counter {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(74, 143, 105);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+}
+
+
+
+/* .child{
   background-color: rgb(150, 150, 236);
 
 }
 .parent{
   background-color: rgb(96, 134, 108);
   
-}
+} */
 body{
   background-color: rgb(164, 188, 193);
 }
