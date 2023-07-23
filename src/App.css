@@ -1,5 +1,19 @@
+
+
 .App {
   text-align: center;
+
+}
+.child{
+  background-color: rgb(150, 150, 236);
+
+}
+.parent{
+  background-color: rgb(96, 134, 108);
+  
+}
+body{
+  background-color: rgb(164, 188, 193);
 }
 
 .App-logo {
